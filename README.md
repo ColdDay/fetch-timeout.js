@@ -7,7 +7,7 @@
 
 1.增加timeout超时参数
 ```
-fetch(url, {
+fetchTimeout(url, {
     timeout: 5000
 })
 ```
