@@ -1,5 +1,5 @@
 # fetch-timeout.js
-# 一个真正支持timeout的fetch
+# 一个真正支持timeout的fetch，超时直接把请求cancel
 
 详细了解fetch 用法请参考 MDN https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch
 
